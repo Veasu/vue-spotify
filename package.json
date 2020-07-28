@@ -3,9 +3,11 @@
   "version": "1.0.3",
   "description": "A small wrapper for integrating spotify-web-api-node to Vuejs",
   "main": "dist/vue-spotify.min.js",
+  "types": "index.d.ts",
   "scripts": {
     "test": "npm run test"
   },
+  "typing": "index.d.ts",
   "files": [
     "dist",
     "src",
@@ -23,7 +25,7 @@
     "api",
     "wrapper"
   ],
-  "author": "Hugo Da Roit (Yaty)",
+  "author": "Veasu",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Veasu/vue-spotify/issues"
