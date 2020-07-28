@@ -8,7 +8,8 @@
   },
   "files": [
     "dist",
-    "src"
+    "src",
+    "index.d.ts"
   ],
   "repository": {
     "type": "git",
